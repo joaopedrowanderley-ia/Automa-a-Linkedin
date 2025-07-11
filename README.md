@@ -20,4 +20,11 @@ Automação completa para **aceitar convites**, **enviar mensagens personalizada
 - Simula comportamento humano com rolagem suave
 - Totalmente automático e robusto contra erros
 
+---
+
+## 🔒 Código privado
+
+Por contrato, este repositório não contém o código-fonte, mas está aqui como referência profissional. Em caso de interesse, posso demonstrar um projeto semelhante ou simulado.
+
+
 ```
